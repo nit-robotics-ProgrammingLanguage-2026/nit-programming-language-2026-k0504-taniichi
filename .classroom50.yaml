@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0504"
+secret: "nmm2dsr0"
+owner:
+  username: "taniichi"
+  id: 334761142
+  accepted_at: "2026-11-02T05:32:02Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0504-reverse_engineering"
+  branch: "main"
